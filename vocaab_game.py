@@ -101,4 +101,4 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2)
 
 st.divider()
-st.write("นางณิชกมล บัวตรง เลขที่ 16 ม.4/13")
+st.write("นางสาวณิชกมล บัวตรง เลขที่ 16 ม.4/13")

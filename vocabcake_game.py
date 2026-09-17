@@ -110,7 +110,7 @@ def show_result_dialog(ans1, ans2, ans3, ans4, ans5):
     elif score >= 3:
         st.warning(" พยายามอีกนิด!")
     else:
-        st.error(" ลองใหม่อีกครั้ง!")
+        st.error(" !")
 
 
 # ----------------------------------------------------
